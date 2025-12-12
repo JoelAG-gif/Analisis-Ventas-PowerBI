@@ -37,4 +37,4 @@ Este segmento se enfoca en la distribución de la venta y el margen de beneficio
 * **ETL (Power Query):** Proceso de limpieza, transformación y carga de datos desde las fuentes operacionales.
 
 ---
-*Desarrollado por [Tu Nombre]*
+*Desarrollado por [Jireh Aroni]*
