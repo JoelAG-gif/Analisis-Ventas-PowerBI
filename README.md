@@ -4,19 +4,19 @@ Este proyecto consiste en un tablero interactivo de Power BI para analizar el re
 
 ## 📸 Galería del Reporte
 
-### 1. Vista General (KPIs y Tendencias)
-![Vista General](ventas x tienda.png)
+### 1. Vista General por Tienda
+![Ventas por Tienda](ventas%20x%20tienda.png)
 
-### 2. Ranking de Productos y Rentabilidad
-![Ranking](tienda x subfamilia.png)
+### 2. Análisis por Subfamilia
+![Tienda por Subfamilia](tienda%20x%20subfamilia.png)
 
-### 3. Distribución Geográfica
-![Mapa](detalle mensual.png)
+### 3. Detalle Mensual
+![Detalle Mensual](detalle%20mensual.png)
 
 ## 🛠️ Herramientas Utilizadas
 * **Power BI Desktop:** Modelado de datos y visualización.
-* **DAX:** Creación de medidas calculadas (Márgenes, Variación YoY).
-* **Power Query (ETL):** Limpieza y transformación de datos.
+* **DAX:** Creación de medidas calculadas.
+* **ETL:** Limpieza y transformación de datos.
 
 ---
-*Desarrollado por [Jireh Aroni]*
+*Desarrollado por [Tu Nombre]*
